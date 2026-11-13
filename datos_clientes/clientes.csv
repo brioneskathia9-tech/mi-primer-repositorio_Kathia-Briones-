@@ -1,1 +1,6 @@
-
+id_cliente,nombre,apellido,ciudad,telefono
+1,Ana,Pérez,Guayaquil,0991111111
+2,Luis,Gómez,Quito,0982222222
+3,María,Torres,Cuenca,0973333333
+4,Carlos,Ruiz,Guayaquil,0964444444
+5,Daniela,Vera,Manta,0955555555
